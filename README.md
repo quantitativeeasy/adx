@@ -1,5 +1,5 @@
 # adx
-Gruppo studio Srategia ADX
+Gruppo studio Strategia ADX VantaggioSleale
 
 
 Chiunque pensa di poter dare un contributo è ben accetto !
